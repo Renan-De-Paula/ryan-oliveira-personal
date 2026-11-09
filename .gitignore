@@ -1,0 +1,22 @@
+# Firebase
+.firebase/
+firebase-debug.log*
+firestore-debug.log*
+ui-debug.log*
+
+# Node / Dependências temporárias
+node_modules/
+package-lock.json
+
+# Arquivos de design pesados (opcional - manter se quiser guardar no repo)
+*.psd
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# IDE / Editores
+.vscode/
+.idea/
